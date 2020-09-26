@@ -18,3 +18,17 @@ C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\
 C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.dll
 C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.pdb
 C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.genruntimeconfig.cache
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.Views.dll
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.Views.pdb
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.TagHelpers.input.cache
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.TagHelpers.output.cache
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorCoreGenerate.cache
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetAllBooks.cshtml.g.cs
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorTargetAssemblyInfo.cs
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.Views.pdb
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CopyComplete
+C:\Users\burakarat\Desktop\Business 2020\NetCoreRoadMap\BookStore\BookStore\bin\Debug\netcoreapp3.1\libman.json
